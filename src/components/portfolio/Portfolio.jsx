@@ -28,15 +28,15 @@ const data =[
   {
     id:3,
     image:IMG3,
-    title:'3',
+    title:'ChangeTheWorld',
     github:'https://github.com/progject-3/project-3',
-    demo: 'https://github.com/progject-3/project-3'
+    demo: 'https://zaidfadel89.github.io/ChangeTheWord/'
   },
 
   {
     id:4,
     image:IMG4,
-    title:'4',
+    title:'Premiere',
     github:'https://github.com/zaidfadel/newProject-2',
     demo: 'https://github.com/zaidfadel/newProject-2'
     },
@@ -44,7 +44,7 @@ const data =[
   {
     id:5,
     image:IMG5,
-    title:'5',
+    title:'Any Time Is Train Time',
     github:'https://github.com/zaidfadel89/Train-7_app.index',
     demo: 'https://zaidfadel89.github.io/Train-7_app.index/'
 
@@ -53,9 +53,36 @@ const data =[
   {
     id:6,
     image:IMG6,
-    title:'6',
+    title:'Crystal Collector',
     github:'https://github.com/zaidfadel89/unit_4_Game.index',
     demo: 'https://zaidfadel89.github.io/unit_4_Game.index/'
+
+
+  },
+  {
+    id:7,
+    image:IMG3,
+    title:'ClickyGame',
+    github:'https://github.com/zaidfadel89/ClickyGame_build_with_ReactJS',
+    demo: 'https://zaidfadel89.github.io/ClickyGame_build_with_ReactJS/'
+
+
+  },
+  {
+    id:8,
+    image:IMG2,
+    title:'Guess Word',
+    github:'https://github.com/zaidfadel89/Word-Guess-Game.index',
+    demo: 'https://zaidfadel89.github.io/Word-Guess-Game.index/'
+
+
+  },
+  {
+    id:9,
+    image:IMG1,
+    title:'Harry Potter Trivia Game',
+    github:'https://github.com/zaidfadel89/Trivia_Game2.index',
+    demo: 'https://zaidfadel89.github.io/Trivia_Game2.index/'
 
 
   },
