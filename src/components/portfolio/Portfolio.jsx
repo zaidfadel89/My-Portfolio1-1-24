@@ -38,7 +38,7 @@ const data =[
     image:IMG4,
     title:'Premiere',
     github:'https://github.com/zaidfadel/newProject-2',
-    demo: 'https://github.com/zaidfadel/newProject-2'
+    demo: 'https://zaidfadel89.github.io/Premiere/'
     },
 
   {
