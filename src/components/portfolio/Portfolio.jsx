@@ -77,6 +77,8 @@ const data =[
 
 
   },
+
+  
   {
     id:9,
     image:IMG1,
