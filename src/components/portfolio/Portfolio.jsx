@@ -71,9 +71,9 @@ const data =[
   {
     id:8,
     image:IMG2,
-    title:'Guess Word',
-    github:'https://github.com/zaidfadel89/Word-Guess-Game.index',
-    demo: 'https://zaidfadel89.github.io/Word-Guess-Game.index/'
+    title:'Moody',
+    github:'https://github.com/Moody-Project/Moody-Music',
+    demo: 'https://moody-project.github.io/Moody-Music/'
 
 
   },
@@ -85,7 +85,8 @@ const data =[
     demo: 'https://zaidfadel89.github.io/Trivia_Game2.index/'
 
 
-  },
+  }
+
 ]
 
 
