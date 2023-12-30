@@ -1,6 +1,7 @@
 {
   "name": "my-portfolio1",
-  "homepage": "https://zaidfadel89.github.io/My-Portfolio1",
+  "homepage": "https://github.com/zaidfadel89/my-portfolio1",
+  
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
